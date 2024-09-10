@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/6dc8f51b3e7d4703abe4b5ab171e757a/artifacts
+end_time: 1725631321193
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 6dc8f51b3e7d4703abe4b5ab171e757a
+run_name: secretive-roo-425
+run_uuid: 6dc8f51b3e7d4703abe4b5ab171e757a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321177
+status: 3
+tags: []
+user_id: jaimin

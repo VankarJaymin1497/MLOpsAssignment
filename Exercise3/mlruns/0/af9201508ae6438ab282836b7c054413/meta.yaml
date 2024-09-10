@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise3/mlruns/0/af9201508ae6438ab282836b7c054413/artifacts
+end_time: 1725968145859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af9201508ae6438ab282836b7c054413
+run_name: smiling-seal-911
+run_uuid: af9201508ae6438ab282836b7c054413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725968140651
+status: 3
+tags: []
+user_id: jaimin

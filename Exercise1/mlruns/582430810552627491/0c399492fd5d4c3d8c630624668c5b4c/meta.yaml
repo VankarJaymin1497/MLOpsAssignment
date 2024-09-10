@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/0c399492fd5d4c3d8c630624668c5b4c/artifacts
+end_time: 1725631321053
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 0c399492fd5d4c3d8c630624668c5b4c
+run_name: flawless-owl-144
+run_uuid: 0c399492fd5d4c3d8c630624668c5b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321038
+status: 3
+tags: []
+user_id: jaimin

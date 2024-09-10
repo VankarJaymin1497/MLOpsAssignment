@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/f82a23ae2f894ed8a6533073563ca1df/artifacts
+end_time: 1725631321258
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: f82a23ae2f894ed8a6533073563ca1df
+run_name: gifted-shrike-104
+run_uuid: f82a23ae2f894ed8a6533073563ca1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321240
+status: 3
+tags: []
+user_id: jaimin

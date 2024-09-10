@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/7f763940f44b43ecabfaee40658aa946/artifacts
+end_time: 1725631321217
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 7f763940f44b43ecabfaee40658aa946
+run_name: overjoyed-mare-288
+run_uuid: 7f763940f44b43ecabfaee40658aa946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321196
+status: 3
+tags: []
+user_id: jaimin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/1a21062c73ab481988e94fc6c1647c72/artifacts
+end_time: 1725631321343
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 1a21062c73ab481988e94fc6c1647c72
+run_name: salty-lark-112
+run_uuid: 1a21062c73ab481988e94fc6c1647c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321325
+status: 3
+tags: []
+user_id: jaimin

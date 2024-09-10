@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/f57d1193dd0d4c85bd70b9d354de2035/artifacts
+end_time: 1725631321088
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: f57d1193dd0d4c85bd70b9d354de2035
+run_name: charming-grouse-610
+run_uuid: f57d1193dd0d4c85bd70b9d354de2035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321073
+status: 3
+tags: []
+user_id: jaimin

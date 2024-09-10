@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459/37870490ee5b42c9a08ccf2cfa3efb20/artifacts
+end_time: 1725631315573
+entry_point_name: ''
+experiment_id: '831268704958015459'
+lifecycle_stage: active
+run_id: 37870490ee5b42c9a08ccf2cfa3efb20
+run_name: stately-ox-544
+run_uuid: 37870490ee5b42c9a08ccf2cfa3efb20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631315271
+status: 3
+tags: []
+user_id: jaimin

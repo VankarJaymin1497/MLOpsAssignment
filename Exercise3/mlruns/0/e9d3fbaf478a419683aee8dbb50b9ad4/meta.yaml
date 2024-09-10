@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise3/mlruns/0/e9d3fbaf478a419683aee8dbb50b9ad4/artifacts
+end_time: 1725954467915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9d3fbaf478a419683aee8dbb50b9ad4
+run_name: smiling-crab-319
+run_uuid: e9d3fbaf478a419683aee8dbb50b9ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725954464995
+status: 3
+tags: []
+user_id: jaimin

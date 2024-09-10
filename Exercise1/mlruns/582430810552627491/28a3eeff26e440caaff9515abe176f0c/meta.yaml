@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/28a3eeff26e440caaff9515abe176f0c/artifacts
+end_time: 1725631321301
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 28a3eeff26e440caaff9515abe176f0c
+run_name: defiant-lynx-930
+run_uuid: 28a3eeff26e440caaff9515abe176f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321283
+status: 3
+tags: []
+user_id: jaimin

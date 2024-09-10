@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459/02865f2d23794c0a9bf4ca9896bdefcb/artifacts
+end_time: 1725631314801
+entry_point_name: ''
+experiment_id: '831268704958015459'
+lifecycle_stage: active
+run_id: 02865f2d23794c0a9bf4ca9896bdefcb
+run_name: merciful-sponge-534
+run_uuid: 02865f2d23794c0a9bf4ca9896bdefcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631314371
+status: 3
+tags: []
+user_id: jaimin

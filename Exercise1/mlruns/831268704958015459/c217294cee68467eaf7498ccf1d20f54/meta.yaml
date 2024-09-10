@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459/c217294cee68467eaf7498ccf1d20f54/artifacts
+end_time: 1725631318762
+entry_point_name: ''
+experiment_id: '831268704958015459'
+lifecycle_stage: active
+run_id: c217294cee68467eaf7498ccf1d20f54
+run_name: colorful-snipe-810
+run_uuid: c217294cee68467eaf7498ccf1d20f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631318248
+status: 3
+tags: []
+user_id: jaimin

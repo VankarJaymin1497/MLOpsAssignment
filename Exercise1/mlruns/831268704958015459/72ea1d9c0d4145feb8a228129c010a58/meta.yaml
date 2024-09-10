@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459/72ea1d9c0d4145feb8a228129c010a58/artifacts
+end_time: 1725631317859
+entry_point_name: ''
+experiment_id: '831268704958015459'
+lifecycle_stage: active
+run_id: 72ea1d9c0d4145feb8a228129c010a58
+run_name: invincible-snipe-838
+run_uuid: 72ea1d9c0d4145feb8a228129c010a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631317419
+status: 3
+tags: []
+user_id: jaimin

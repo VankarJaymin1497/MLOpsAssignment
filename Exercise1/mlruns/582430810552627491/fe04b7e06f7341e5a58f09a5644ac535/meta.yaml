@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/fe04b7e06f7341e5a58f09a5644ac535/artifacts
+end_time: 1725631321106
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: fe04b7e06f7341e5a58f09a5644ac535
+run_name: powerful-hare-340
+run_uuid: fe04b7e06f7341e5a58f09a5644ac535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321091
+status: 3
+tags: []
+user_id: jaimin

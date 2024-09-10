@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/2f60bd1c34ab4375a52947b1b2653a01/artifacts
+end_time: 1725631321322
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 2f60bd1c34ab4375a52947b1b2653a01
+run_name: fun-dog-459
+run_uuid: 2f60bd1c34ab4375a52947b1b2653a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321304
+status: 3
+tags: []
+user_id: jaimin

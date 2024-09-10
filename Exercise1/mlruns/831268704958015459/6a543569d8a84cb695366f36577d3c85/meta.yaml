@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459/6a543569d8a84cb695366f36577d3c85/artifacts
+end_time: 1725631314369
+entry_point_name: ''
+experiment_id: '831268704958015459'
+lifecycle_stage: active
+run_id: 6a543569d8a84cb695366f36577d3c85
+run_name: handsome-mare-605
+run_uuid: 6a543569d8a84cb695366f36577d3c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631314180
+status: 3
+tags: []
+user_id: jaimin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/e0493cc6e3644753a03185f79352ba54/artifacts
+end_time: 1725631321280
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: e0493cc6e3644753a03185f79352ba54
+run_name: industrious-pig-971
+run_uuid: e0493cc6e3644753a03185f79352ba54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321261
+status: 3
+tags: []
+user_id: jaimin

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459
+creation_time: 1725631313870
+experiment_id: '831268704958015459'
+last_update_time: 1725631313870
+lifecycle_stage: active
+name: RandomForest_Hyperparameter_Optimization

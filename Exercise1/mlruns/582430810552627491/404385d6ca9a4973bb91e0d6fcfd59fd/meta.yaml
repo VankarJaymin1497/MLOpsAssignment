@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/404385d6ca9a4973bb91e0d6fcfd59fd/artifacts
+end_time: 1725631321387
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 404385d6ca9a4973bb91e0d6fcfd59fd
+run_name: rumbling-chimp-38
+run_uuid: 404385d6ca9a4973bb91e0d6fcfd59fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321368
+status: 3
+tags: []
+user_id: jaimin

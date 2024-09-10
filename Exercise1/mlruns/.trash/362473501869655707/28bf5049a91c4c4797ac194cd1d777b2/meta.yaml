@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/362473501869655707/28bf5049a91c4c4797ac194cd1d777b2/artifacts
+deleted_time: 1725631359044
+end_time: 1725631311748
+entry_point_name: ''
+experiment_id: '362473501869655707'
+lifecycle_stage: deleted
+run_id: 28bf5049a91c4c4797ac194cd1d777b2
+run_name: RandomForest
+run_uuid: 28bf5049a91c4c4797ac194cd1d777b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631308292
+status: 3
+tags: []
+user_id: jaimin

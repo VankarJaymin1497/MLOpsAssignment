@@ -1,0 +1,6 @@
+artifact_location: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491
+creation_time: 1725631321010
+experiment_id: '582430810552627491'
+last_update_time: 1725631321010
+lifecycle_stage: active
+name: SVM_Hyperparameter_Optimization

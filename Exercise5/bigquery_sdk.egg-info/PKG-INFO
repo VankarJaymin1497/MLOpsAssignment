@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: bigquery-sdk
+Version: 0.1
+Summary: SDK for interacting with BigQuery across multiple GCP projects
+Author: Jaimin Parmar
+Author-email: jaiminparmar7827@gmail.com
+Requires-Dist: google-cloud-bigquery
+Requires-Dist: google-auth

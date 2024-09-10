@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/1a9596d6522a4cf1bd1cc0c13f99de49/artifacts
+end_time: 1725631321071
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 1a9596d6522a4cf1bd1cc0c13f99de49
+run_name: useful-fish-948
+run_uuid: 1a9596d6522a4cf1bd1cc0c13f99de49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321056
+status: 3
+tags: []
+user_id: jaimin

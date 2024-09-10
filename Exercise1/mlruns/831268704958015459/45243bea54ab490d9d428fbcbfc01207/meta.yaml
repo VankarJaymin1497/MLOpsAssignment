@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/831268704958015459/45243bea54ab490d9d428fbcbfc01207/artifacts
+end_time: 1725631319306
+entry_point_name: ''
+experiment_id: '831268704958015459'
+lifecycle_stage: active
+run_id: 45243bea54ab490d9d428fbcbfc01207
+run_name: receptive-eel-909
+run_uuid: 45243bea54ab490d9d428fbcbfc01207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631318934
+status: 3
+tags: []
+user_id: jaimin

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/362473501869655707/d56f360a56e44b53801e415d463b7e4a/artifacts
+deleted_time: 1725631359044
+end_time: 1725631313782
+entry_point_name: ''
+experiment_id: '362473501869655707'
+lifecycle_stage: deleted
+run_id: d56f360a56e44b53801e415d463b7e4a
+run_name: SVM
+run_uuid: d56f360a56e44b53801e415d463b7e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631311752
+status: 3
+tags: []
+user_id: jaimin

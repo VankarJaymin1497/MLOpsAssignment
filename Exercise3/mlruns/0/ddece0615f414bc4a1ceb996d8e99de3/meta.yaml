@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise3/mlruns/0/ddece0615f414bc4a1ceb996d8e99de3/artifacts
+end_time: 1725954461673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddece0615f414bc4a1ceb996d8e99de3
+run_name: illustrious-slug-259
+run_uuid: ddece0615f414bc4a1ceb996d8e99de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725954454621
+status: 3
+tags: []
+user_id: jaimin

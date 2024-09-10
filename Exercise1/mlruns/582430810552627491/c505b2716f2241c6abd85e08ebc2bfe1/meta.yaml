@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/c505b2716f2241c6abd85e08ebc2bfe1/artifacts
+end_time: 1725631321123
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: c505b2716f2241c6abd85e08ebc2bfe1
+run_name: overjoyed-bird-265
+run_uuid: c505b2716f2241c6abd85e08ebc2bfe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321108
+status: 3
+tags: []
+user_id: jaimin

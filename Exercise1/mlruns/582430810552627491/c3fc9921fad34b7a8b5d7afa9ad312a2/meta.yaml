@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/c3fc9921fad34b7a8b5d7afa9ad312a2/artifacts
+end_time: 1725631321411
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: c3fc9921fad34b7a8b5d7afa9ad312a2
+run_name: charming-snake-69
+run_uuid: c3fc9921fad34b7a8b5d7afa9ad312a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321012
+status: 3
+tags: []
+user_id: jaimin

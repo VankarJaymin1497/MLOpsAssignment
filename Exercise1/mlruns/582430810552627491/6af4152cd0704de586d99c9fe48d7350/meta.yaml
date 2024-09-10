@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise1/mlruns/582430810552627491/6af4152cd0704de586d99c9fe48d7350/artifacts
+end_time: 1725631321174
+entry_point_name: ''
+experiment_id: '582430810552627491'
+lifecycle_stage: active
+run_id: 6af4152cd0704de586d99c9fe48d7350
+run_name: stylish-fawn-455
+run_uuid: 6af4152cd0704de586d99c9fe48d7350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725631321160
+status: 3
+tags: []
+user_id: jaimin

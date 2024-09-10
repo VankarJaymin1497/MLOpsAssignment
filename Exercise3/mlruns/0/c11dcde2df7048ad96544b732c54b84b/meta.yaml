@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Jaymin/Desktop/MLOps%20Assignment/Exercise3/mlruns/0/c11dcde2df7048ad96544b732c54b84b/artifacts
+end_time: 1725968152543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c11dcde2df7048ad96544b732c54b84b
+run_name: funny-ram-645
+run_uuid: c11dcde2df7048ad96544b732c54b84b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725968149327
+status: 3
+tags: []
+user_id: jaimin
